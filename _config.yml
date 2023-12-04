@@ -36,42 +36,42 @@ mastodon_link                             : https://mastodon.social/@ebaehr
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : thought-bubble
+  - title                                 : Microblogging
+    description                           : Share your thoughts and updates in short, snappy posts.
+    fontawesome_icon_name                 : comments
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Discover
+    description                           : Stay informed with trending topics, news, and updates.
+    fontawesome_icon_name                 : hashtag
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Follow
+    description                           : Connect with friends, influencers, and like-minded individuals.
+    fontawesome_icon_name                 : user-plus
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Engage
+    description                           : Like, snapshare and save as favorite the posts you love.
+    fontawesome_icon_name                 : heart
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Notifications
+    description                           : Get instant updates on likes, retweets, and mentions.
+    fontawesome_icon_name                 : bell
   
-  - title                                 : Feature List
+  - title                                 : Media Sharing
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : camera-retro
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : Direct Messages
+    description                           : Message your friends and followers directly, privately, and securely.
+    fontawesome_icon_name                 : envelope
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Search Functionality
+    description                           : Easily search for posts, users, and trending topics.
+    fontawesome_icon_name                 : magnifying-glass
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
+  - title                                 : Analytics Dashboard
+    description                           : Access analytics for your profile, including post engagement, follower growth, and popular posts.
+    fontawesome_icon_name                 : chart-simple
+    
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
