@@ -12,12 +12,12 @@ We are a group of students from the University of Buenos Aires, Argentina, who a
 
 ## Team Members
 
-- [Nathalia Encinoza](https://github.com/nathencinoza)
+ ![GithubIcon](../assets/github.svg) <span style="margin-right: 10px;margin-top: 20px;"></span> [Nathalia Encinoza](https://github.com/nathencinoza)
   
-- [Abril Díaz](https://github.com/Pandamos)
+![GithubIcon](../assets/github.svg) <span style="margin-right: 10px;margin-top: 20px;"></span> [Abril Díaz](https://github.com/Pandamos)
   
-- [Lara Scazzola](https://github.com/lara-scazzola1)
-  
-- [Alejo Cáliz Blanco](https://github.com/Merok23) 
+![GithubIcon](../assets/github.svg) <span style="margin-right: 10px;margin-top: 20px;"></span> [Lara Scazzola](https://github.com/lara-scazzola1)
+
+![GithubIcon](../assets/github.svg) <span style="margin-right: 10px;margin-top: 20px;"></span>  [Alejo Cáliz Blanco](https://github.com/Merok23) 
   
 
