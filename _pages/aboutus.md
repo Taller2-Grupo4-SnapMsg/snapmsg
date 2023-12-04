@@ -18,6 +18,6 @@ We are a group of students from the University of Buenos Aires, Argentina, who a
   
 ![GithubIcon](../assets/github.svg) <span style="margin-right: 10px;margin-top: 20px;"></span> [Lara Scazzola](https://github.com/lara-scazzola1)
 
-![GithubIcon](../assets/github.svg) <span style="margin-right: 10px;margin-top: 20px;"></span>  [Alejo Cáliz Blanco](https://github.com/Merok23) 
+![GithubIcon](../assets/github.svg) <span style="margin-right: 10px;margin-top: 20px;"></span>  [Alejo Caliz Blanco](https://github.com/Merok23) 
   
 
