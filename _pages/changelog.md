@@ -2,6 +2,7 @@
 layout: page
 title: Install
 include_in_header: true
+weight: 1
 ---
 
 # Install Guide
