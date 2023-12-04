@@ -66,12 +66,12 @@ features                                  :
 
   - title                                 : Search Functionality
     description                           : Easily search for posts, users, and trending topics.
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : searchengin
 
   - title                                 : Analytics Dashboard
     description                           : Access analytics for your profile, including post engagement, follower growth, and popular posts.
-    fontawesome_icon_name                 : chart-simple
-    
+    fontawesome_icon_name                 : chart-line
+
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
