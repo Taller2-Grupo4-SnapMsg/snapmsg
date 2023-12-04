@@ -57,7 +57,7 @@ features                                  :
     fontawesome_icon_name                 : bell
   
   - title                                 : Media Sharing
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+    description                           : Share photos to add a personal touch to your posts.
     fontawesome_icon_name                 : camera-retro
 
   - title                                 : Direct Messages
@@ -66,7 +66,7 @@ features                                  :
 
   - title                                 : Search Functionality
     description                           : Easily search for posts, users, and trending topics.
-    fontawesome_icon_name                 : searchengin
+    fontawesome_icon_name                 : search
 
   - title                                 : Analytics Dashboard
     description                           : Access analytics for your profile, including post engagement, follower growth, and popular posts.
