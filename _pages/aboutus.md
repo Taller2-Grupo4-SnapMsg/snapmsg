@@ -12,7 +12,7 @@ We are a group of students from the University of Buenos Aires, Argentina, who a
 
 ## Team Members
 
- ![GithubIcon](../assets/github.svg) <span style="margin-right: 10px;margin-top: 20px;"></span> [Nathalia Encinoza](https://github.com/nathencinoza)
+![GithubIcon](../assets/github.svg) <span style="margin-right: 10px;margin-top: 20px;"></span> [Nathalia Encinoza](https://github.com/nathencinoza)
   
 ![GithubIcon](../assets/github.svg) <span style="margin-right: 10px;margin-top: 20px;"></span> [Abril Díaz](https://github.com/Pandamos)
   
